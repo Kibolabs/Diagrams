@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T16:18:44.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="XFGHCwweFFJy7GIHm-FL" version="17.5.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-08T16:51:08.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="6ruQa6819txkJhS4MKzh" version="17.5.0" type="github" pages="11">
   <diagram id="d2onDuZHNwdcGHEt0VVs" name="TheModel">
     <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1994,35 +1994,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wW6LA2mnKHhpXivP55mU-1" value="remembering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="wW6LA2mnKHhpXivP55mU-1" value="remembering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-1" value="understanding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-1" value="understanding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-2" value="resourceManagement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-2" value="resourceManagement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-3" value="animation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-3" value="animation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-4" value="graphics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-4" value="graphics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-5" value="virtual_cash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-5" value="virtual_cash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="414" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-6" value="EmployeeMood" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-6" value="EmployeeMood" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-7" value="hints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-7" value="hints" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-8" value="Avatar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-8" value="Avatar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOCCvm4638sJcmZ3-6sB-9" value="Resource" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="120" height="30" as="geometry" />
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-9" value="email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-10" value="experiential" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-11" value="problem-solving" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-12" value="critical-thinking" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-13" value="reasoning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-14" value="Learning content" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BOCCvm4638sJcmZ3-6sB-15" value="LO: understanding worms&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="470" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
