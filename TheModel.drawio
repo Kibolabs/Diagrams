@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:47:41.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ifTdvqW_FFXFs4uF6zeq" version="20.1.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-08-23T16:05:28.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="4u3KdtXrI5k898gHirrU" version="20.2.5" type="github" pages="14">
   <diagram id="d2onDuZHNwdcGHEt0VVs" name="TheModel">
-    <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -494,7 +494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f2WduoJUHzheKcI4ztZl" name="Methodology">
-    <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="khfXyjVy3qfHd4cFO1ea-0" />
         <mxCell id="khfXyjVy3qfHd4cFO1ea-1" parent="khfXyjVy3qfHd4cFO1ea-0" />
@@ -689,14 +689,8 @@
         <mxCell id="khfXyjVy3qfHd4cFO1ea-48" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Iteration&lt;/b&gt; &lt;b&gt;1&lt;/b&gt;: Design of conceptual framework and classification of educational games&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Iteration&lt;/b&gt; &lt;b&gt;2&lt;/b&gt;: Development of a generalized reusable model&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Iteration&lt;/b&gt; &lt;b&gt;3&lt;/b&gt;: Defining an environment to facilitate autonomous tools integration to the process model.&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Iteration&lt;/b&gt; &lt;b&gt;4&lt;/b&gt;: Implementation of a co-creation system as a demonstration of a proposed mixed-initiative environment. &lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;spacing=8;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
           <mxGeometry x="340" y="870" width="390" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="khfXyjVy3qfHd4cFO1ea-49" value="&lt;div style=&quot;font-size: 14px&quot;&gt;Chapter 4: Methods &amp;amp; Results&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;spacing=10;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
-          <mxGeometry x="730" y="1090" width="230" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="khfXyjVy3qfHd4cFO1ea-50" value="&lt;div style=&quot;font-size: 14px&quot;&gt;Chapter 5: The prescriptive design framework (artefact)&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Chapter 6: Mixed-initiative and Co-creation system (artefact) .&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;spacing=10;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
-          <mxGeometry x="340" y="1090" width="390" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="khfXyjVy3qfHd4cFO1ea-51" value="&lt;div style=&quot;font-size: 14px&quot;&gt;Chapter 1: Introduction&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Chapter 2: Literature review&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Chapter 7: Conclusions&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Appendix A (comprehensive review template)&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;spacing=10;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
-          <mxGeometry x="100" y="1090" width="240" height="90" as="geometry" />
+        <mxCell id="khfXyjVy3qfHd4cFO1ea-50" value="&lt;div style=&quot;font-size: 14px&quot;&gt;The prescriptive design framework, Net Com Quest Game, Queen Binary&#39;s Fortress Game, Mixed-initiative and Co-creation system.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;spacing=10;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
+          <mxGeometry x="100" y="1090" width="860" height="50" as="geometry" />
         </mxCell>
         <mxCell id="khfXyjVy3qfHd4cFO1ea-52" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Comprehensive literature review.&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Game reviews&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;spacing=10;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
           <mxGeometry x="100" y="1000" width="240" height="90" as="geometry" />
@@ -734,8 +728,8 @@
         <mxCell id="khfXyjVy3qfHd4cFO1ea-63" value="&lt;div&gt;Techniques&lt;/div&gt;&lt;div&gt; used&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Times New Roman;rotation=90;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
           <mxGeometry x="27.5" y="1035" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="khfXyjVy3qfHd4cFO1ea-64" value="Outputs and relation to thesis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Times New Roman;rotation=90;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
-          <mxGeometry x="27.5" y="1125" width="100" height="20" as="geometry" />
+        <mxCell id="khfXyjVy3qfHd4cFO1ea-64" value="Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Times New Roman;rotation=90;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
+          <mxGeometry x="30" y="1110" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="khfXyjVy3qfHd4cFO1ea-65" value="&lt;div&gt;Design as an artifact.&lt;/div&gt;&lt;div&gt;Design as a search process.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Times New Roman;fillColor=#bac8d3;strokeColor=#23445d;fontSize=13;" parent="khfXyjVy3qfHd4cFO1ea-1" vertex="1">
           <mxGeometry x="410" y="570" width="220" height="40" as="geometry" />
