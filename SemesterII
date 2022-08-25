@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T14:17:51.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="RRNgJYYbnpt6OexfniBt" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T19:08:23.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="0ariK7DplZHAKqIZELtV" version="20.2.5" type="github" pages="2">
   <diagram id="ogzD7Fsl5Fun6RFrDJiT" name="OOPVsPOP">
     <mxGraphModel dx="940" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,23 @@
         </mxCell>
         <mxCell id="B4A_su6rUonbf6QK24tf-8" value="&lt;b&gt;Objects Collaborating in an&amp;nbsp;&lt;u&gt;Object-Oriented Application&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JdO3fTZhKNmwPaKaXqUM" name="myName">
+    <mxGraphModel dx="940" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SUl7sv9qqEfAqWrg-OpM-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;myName = new String(&quot;Ilenius Korongo Ildephonce&quot;);&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SUl7sv9qqEfAqWrg-OpM-2" value="This calls a String &lt;b&gt;Constructor&lt;/b&gt; which is a special method that sets up the object" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUl7sv9qqEfAqWrg-OpM-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Courier New;fontSize=16;rotation=90;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="475" y="20" width="30" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
