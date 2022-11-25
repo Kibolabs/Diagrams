@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T15:42:05.579Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="VqlPIWI__IhaIXIYxe9g" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-25T17:08:19.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="5Zgh0tV72YShSyfxIsTy" version="20.5.3" type="github" pages="2">
   <diagram id="4RjSWT0RKZWfSwgtfKOv" name="SystemReasoning">
-    <mxGraphModel dx="1773" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1923" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,60 +62,60 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kTMDXnsxR-R25ARzkmYg" name="BarbudaSmart">
-    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-1" value="Climate Change &amp;nbsp;and Sea Level Rise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-1" value="Climate Change &amp;nbsp;and Sea Level Rise" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-2" value="Natural and Environmental Disasters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-2" value="Natural and Environmental Disasters" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="70" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-3" value="Issues areas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-3" value="Issues areas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-4" value="Smart Solutions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-4" value="Smart Solutions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-5" value="Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-5" value="Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-6" value="Green City" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="405" width="120" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-6" value="Green City" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="412.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-7" value="Sustainable City" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-7" value="Sustainable City" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="410" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-8" value="Livable City" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-8" value="Livable City" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-9" value="Smart City" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-9" value="Smart City" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-10" value="Costal and Marine Resource" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-10" value="Costal and Marine Resource" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="70" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-11" value="Land Resource" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="65" width="60" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-11" value="Land Resource" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="72.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-12" value="Energy Resource" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="65" width="70" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-12" value="Energy Resource" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="75" width="70" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-13" value="Biodiversity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="65" width="70" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-13" value="Biodiversity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="77.5" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-14" value="Tourism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="65" width="70" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-14" value="Tourism" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-15" value="Fresh Water Resource" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="65" width="80" height="60" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-15" value="Fresh Water Resource" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="80" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-16" value="Transport and Communication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="65" width="90" height="75" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-16" value="Transport and Communication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="80" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="TJ7i0rS2bXH45oWqKKs5-17" value="Administration&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="TJ7i0rS2bXH45oWqKKs5-17" value="Output&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
