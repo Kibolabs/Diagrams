@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T15:22:04.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="LE_D-xQ6OHJIl7i3fVvE" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-30T22:06:51.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="vjKsZ5axMyNyAtyCu9FU" version="20.6.0" type="github" pages="2">
   <diagram id="4RjSWT0RKZWfSwgtfKOv" name="SystemReasoning">
     <mxGraphModel dx="2891" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kTMDXnsxR-R25ARzkmYg" name="BarbudaSmart">
-    <mxGraphModel dx="2064" dy="2306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,8 +255,8 @@
             <mxPoint x="897" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OYwwFe8kf2qAwcIImxV_-7" value="Outcomes - Impacted Domains" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=14;fillColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="64" y="531" width="276" height="30" as="geometry" />
+        <mxCell id="OYwwFe8kf2qAwcIImxV_-7" value="Smart Solutions (Outcomes For selected Domains)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontFamily=Verdana;fontSize=14;fillColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="64" y="531" width="436" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OYwwFe8kf2qAwcIImxV_-8" value="&lt;b&gt;Government Services and&amp;nbsp;Policy&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="690" y="557.5" width="160" height="122.5" as="geometry" />
