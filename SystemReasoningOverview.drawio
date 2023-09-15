@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T21:38:34.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="wYFX58Bp7DMzqgntAwQ5" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-15T21:42:22.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="D0aE3kYI5LWTRVEMVHGG" version="21.7.5" type="github" pages="2">
   <diagram id="4RjSWT0RKZWfSwgtfKOv" name="SystemReasoning">
     <mxGraphModel dx="2771" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
         <mxCell id="65ylAnmIaEyaEwxHGgma-3" value="Deploy, Monitor and evaluate smart solutions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455.22" y="320" width="324.78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65ylAnmIaEyaEwxHGgma-4" value="Biodiversity" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="65ylAnmIaEyaEwxHGgma-4" value="Governance and Inter-agency communication" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="378.25" y="-1.25" width="380" height="35" as="geometry" />
         </mxCell>
         <mxCell id="65ylAnmIaEyaEwxHGgma-6" value="Apply relevant technologies to develop smart solutions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
