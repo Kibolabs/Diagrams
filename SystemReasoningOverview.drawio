@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T18:20:15.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="RJmJTbAWYc8z-LtQUiop" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-15T21:38:34.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="wYFX58Bp7DMzqgntAwQ5" version="21.7.5" type="github" pages="2">
   <diagram id="4RjSWT0RKZWfSwgtfKOv" name="SystemReasoning">
     <mxGraphModel dx="2771" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kTMDXnsxR-R25ARzkmYg" name="BarbudaSmart">
-    <mxGraphModel dx="1944" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2034" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
           <mxGeometry x="50" y="-90" width="740" height="130" as="geometry" />
         </mxCell>
         <mxCell id="TJ7i0rS2bXH45oWqKKs5-1" value="Climate Change &amp;nbsp;and Sea Level Rise" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="55.22" y="-60" width="200" height="50" as="geometry" />
+          <mxGeometry x="55.22" y="-60" width="204.78" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TJ7i0rS2bXH45oWqKKs5-2" value="Natural and Environmental Disasters" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="55.22" width="314.78" height="32.5" as="geometry" />
@@ -103,10 +103,10 @@
           <mxGeometry x="266.5" y="-80" width="212" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TJ7i0rS2bXH45oWqKKs5-11" value="Land Resource" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="489.44" y="-80" width="130" height="35" as="geometry" />
+          <mxGeometry x="489.44" y="-80" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TJ7i0rS2bXH45oWqKKs5-12" value="Energy Resource" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="628.75" y="-80" width="135" height="35" as="geometry" />
+          <mxGeometry x="628.75" y="-80" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TJ7i0rS2bXH45oWqKKs5-13" value="Biodiversity" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="268.25" y="-45" width="110" height="35" as="geometry" />
@@ -255,17 +255,17 @@
         <mxCell id="dvUyN6ZEztpWPnP8xu8F-1" value="" style="shape=mxgraph.signs.healthcare.alternative_medicine;html=1;pointerEvents=1;fillColor=#007FFF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="378.25" y="261" width="51.75" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="65ylAnmIaEyaEwxHGgma-1" value="Collect and collate Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="355" y="40" width="235" height="30" as="geometry" />
+        <mxCell id="65ylAnmIaEyaEwxHGgma-1" value="Collect, Analyze and distribute data on issue areas&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="384.97" y="50" width="262.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="65ylAnmIaEyaEwxHGgma-2" value="Analyse, share and distribute Data on issue areas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="152.32" width="311.75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="65ylAnmIaEyaEwxHGgma-3" value="Develop smart solutions." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="441.46999999999997" y="321.13" width="187.5" height="30" as="geometry" />
+        <mxCell id="65ylAnmIaEyaEwxHGgma-3" value="Deploy, Monitor and evaluate smart solutions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="455.22" y="320" width="324.78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="65ylAnmIaEyaEwxHGgma-4" value="Biodiversity" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="378.25" y="-1.25" width="380" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="65ylAnmIaEyaEwxHGgma-6" value="Apply relevant technologies to develop smart solutions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="381.25" y="160" width="348.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
