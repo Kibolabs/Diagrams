@@ -1668,31 +1668,31 @@
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-0" />
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-1" parent="ihxVFCkxH7-A9W6g2jyM-0" />
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-2" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Elsevier&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=23)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="180" y="70" width="60" height="60" as="geometry" />
+          <mxGeometry x="220" y="70" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;UWI&lt;i style=&quot;font-size: 13px;&quot;&gt;lin&lt;/i&gt;C&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=199)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="520" y="70" width="70" height="60" as="geometry" />
+          <mxGeometry x="575" y="80" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Springer Link&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=1506)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="430" y="70" width="80" height="60" as="geometry" />
+          <mxGeometry x="460" y="70" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-5" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;ACM digital library&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=83)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="345" y="70" width="80" height="60" as="geometry" />
+          <mxGeometry x="370" y="70" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-6" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;IEEE Xplore&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=81)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="250" y="70" width="80" height="60" as="geometry" />
+          <mxGeometry x="285" y="70" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-7" value="Included" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="120" y="490" width="70" height="30" as="geometry" />
+          <mxGeometry x="160" y="505" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-8" value="Eligibility" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="110" y="400" width="90" height="30" as="geometry" />
+          <mxGeometry x="150" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-9" value="Screening" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="95" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="135" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-10" value="Identification" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fontFamily=Times New Roman;fontSize=13;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="110" y="130" width="90" height="30" as="geometry" />
+          <mxGeometry x="150" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-11" value="&lt;div style=&quot;font-size: 13px&quot;&gt;Total articles&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;(n=1892)&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
           <mxGeometry x="220" y="150" width="310" height="50" as="geometry" />
@@ -1701,19 +1701,19 @@
           <mxGeometry x="230" y="225" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-13" value="&lt;div style=&quot;font-size: 13px&quot;&gt;Articles excluded&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;(n=179)&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="580" y="230" width="120" height="50" as="geometry" />
+          <mxGeometry x="560" y="230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-14" value="&lt;div style=&quot;font-size: 13px&quot;&gt;Articles screening (applying inclusion criteria 4 and exclusion criteria 3 &amp;amp;5)&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;(n=1674)&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
           <mxGeometry x="240" y="315" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-15" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Articles excluded&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=1358)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="590" y="325" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="325" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-16" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Full text assessed for eligibility&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=316)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
           <mxGeometry x="285" y="400" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-17" value="&lt;div style=&quot;font-size: 13px&quot;&gt;Articles excluded with reasons&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot; align=&quot;justify&quot;&gt;Language (n=7), &lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot; align=&quot;justify&quot;&gt;Relevance / exclusion criteria 3 (n=235)&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot; align=&quot;justify&quot;&gt;Paper not found (n=2)&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
-          <mxGeometry x="520" y="390" width="220" height="70" as="geometry" />
+          <mxGeometry x="500" y="390" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ihxVFCkxH7-A9W6g2jyM-18" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Articles included in qualitative synthesis&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(n=72)&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" parent="ihxVFCkxH7-A9W6g2jyM-1" vertex="1">
           <mxGeometry x="260" y="490" width="230" height="60" as="geometry" />
