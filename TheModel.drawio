@@ -2904,7 +2904,7 @@
         <mxCell id="nfuP6Eozc1Y00VEBYU2G-11" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Lexicon-Based Scoring&lt;div&gt;S_raw=&lt;/div&gt;\sum (m)" vertex="1">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Lexicon-Based Scoring&lt;br&gt;$$(S\_raw=\sum s(w_i))$$" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="390" as="geometry" />
         </mxCell>
         <mxCell id="nfuP6Eozc1Y00VEBYU2G-7" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="nfuP6Eozc1Y00VEBYU2G-6" value="">
