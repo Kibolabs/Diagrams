@@ -2885,76 +2885,76 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qMhlkdPzf0UohC7mkAAP" name="PaperLLM2">
-    <mxGraphModel dx="832" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1659" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-3" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-2" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-3" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Student Reflections&lt;div&gt;(Open-ended responses)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="250" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="&lt;b&gt;Student Reflections&lt;/b&gt;&lt;div&gt;(Open-ended responses)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="175" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-5" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-4" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-5" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-9" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-8" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-9" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-11" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-10" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-11" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Lexicon-Based Scoring:&amp;nbsp;&lt;br&gt;$$(S\_raw=\sum s(w_i))$$" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="390" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="&lt;b&gt;Lexicon-Based Scoring:&amp;nbsp;&lt;/b&gt;&lt;br&gt;$$(S\_raw=\sum s(w_i))$$" vertex="1">
+          <mxGeometry height="80" width="180" x="180" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-7" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="nfuP6Eozc1Y00VEBYU2G-6" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-7" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-6" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="650" />
+              <mxPoint x="485" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Emphasis Handling&lt;div&gt;$$s&#39;(w_i)=s(w_i)+&lt;span style=&quot;font-size: 14px; text-align: start;&quot;&gt;\sigma$$&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="400" y="390" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="&lt;b&gt;Emphasis Handling&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;$$s^\prime(w_i)=s(w_i)+ \sigma$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="190" x="390" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-15" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-14" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-15" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Polarity Score Calculation" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="620" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="&lt;b&gt;Polarity Score Calculation&lt;/b&gt;&lt;div&gt;$$P, N, U$$ from &amp;nbsp;adjusted $$s&#39;(w_i)$$&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="180" y="585" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-13" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-6" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-13" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Degree Modifiers" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="500" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="Degree Modifiers&lt;div&gt;$$s&#39;(w_i)=\alpha*s(w_i)$$&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="175" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Negation Handling&lt;div&gt;$$s&#39;(w_i)=-s(w_i)$$&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" y="390" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="&lt;b&gt;Negation Handling&lt;/b&gt;&lt;div&gt;$$s&#39;(w_i)=-s(w_i)$$&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-12" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nfuP6Eozc1Y00VEBYU2G-6" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-12" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="650" />
+              <mxPoint x="75" y="645" />
             </Array>
             <mxPoint x="340" y="460" as="sourcePoint" />
             <mxPoint x="390" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-18" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-17" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-18" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Normalisation" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="760" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="&lt;b&gt;Normalisation&lt;/b&gt;&lt;div&gt;$$pos=P/T$$ $$neg=N/T $$ $$neu=U/T$$&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="270" x="135" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-20" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nfuP6Eozc1Y00VEBYU2G-19" value="">
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-20" edge="1" parent="1" source="nfuP6Eozc1Y00VEBYU2G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" target="nfuP6Eozc1Y00VEBYU2G-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Compound Score" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="900" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;strokeWidth=2;" value="&lt;b&gt;Compound Score&lt;/b&gt;&lt;div&gt;$$compound=tanh(S\_raw / \sqrt(S\_raw^2+\alpha))$$&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="330" x="105" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="nfuP6Eozc1Y00VEBYU2G-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Sentiment Classification&lt;div&gt;(Positive&amp;gt;0.05, Negative &amp;lt;0.05, else Neutral&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="1040" as="geometry" />
+        <mxCell id="nfuP6Eozc1Y00VEBYU2G-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" value="&lt;b&gt;Sentiment Classification&lt;/b&gt;&lt;div&gt;&lt;b&gt;$$Positive:score\ge0.05$$&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;$$Neutral:-0.05&amp;lt;score&amp;lt;0.05$$&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;$$Negative:score\le-0.05$$&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="240" x="150" y="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
